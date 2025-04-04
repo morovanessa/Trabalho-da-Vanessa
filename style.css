@@ -1,39 +1,38 @@
 
 body{
-    background-color: hsl(102, 23%, 39%);
-    color: rgb(81, 128, 93)(50, 58, 58);
+    background-color: hsl(137, 25%, 51%);
+    color: #24590e;
     text-align: center;
-    font-size: 20px;
-    padding: 0 24px;
+    font-size: 25px;
+    padding: 0 20px;
  }
 
  .texto-um{
-   color: #175e30;
-   font-size: 24px;
+   color: #114021;
+   font-size: 30px;
 
  }
 
  .texto-dois{
-   color: #175e30;
-   font-size: 24px;
+   color: #114021;
+   font-size: 25px;
  }
+ 
   
 .paragrafo{ 
-font-size: 18px;
+font-size: 25px;
 }
 
 .rodape{
 text-align: center;
 display: grid;
 font-size: 18px;
-color: #0095ff;
+color: #329859;
 }
 
 .imagem{
-width: 0%;
+width: 20%;
 }
-
-.linha{
-border-bottom: 1px solid #808080;
-border-top: 1px solid #808080;
-}
+.imagem{
+  width: 20%;
+  }
